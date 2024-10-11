@@ -1,25 +1,6 @@
 # Data Mining 2019/2020 - Unipi
 Competition for the Data Mining course
 
-[Here](https://www.kaggle.com/c/data-mining-20192020-unipi/leaderboard)
-our results on Kaggle. (Group - 12)
-
-Members of the group:
-
-- [Lorenzo Bellomo](https://github.com/LorenzoBellomo)
-- [Andrea Bruno](https://github.com/andybbruno)
-- [Marta Scalisi](https://github.com/martascalisi)
-- [Chiara Spampinato](https://github.com/ChiaraDM)
-
-
-## Task
-- The challenge of this competition is to predict if the car purchased at the Auction is a good / bad buy.
-- All the variables in the data set are defined in the file Carvana_Data_Dictionary.txt
-- The data contains missing values
-- There are 32 Independent variables (C3-C34)
-- The data set is split to 60% training and 40% testing.
-
-
 ## Data understanding (30 points)
 - Data semantics (3 points)
 - Distribution of the variables and statistics (7 points)
